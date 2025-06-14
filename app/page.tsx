@@ -84,14 +84,14 @@ export default function Home() {
         <h2 className="text-2xl font-semibold mt-10 mb-4">Contact</h2>
         <p className="text-gray-700">
           <a
-            href="mailto:your.email@example.com"
+            href="mailto:adamsmayowa06@gmail.com"
             className="text-blue-600 hover:underline"
           >
-            your.email@example.com
+            adamsmayowa06@gmail.com
           </a>
           <br />
           <a
-            href="https://github.com/YOUR_GITHUB"
+            href="https://github.com/mayowa-adams"
             className="text-blue-600 hover:underline"
           >
             GitHub
