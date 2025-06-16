@@ -4,7 +4,7 @@ export default function Home() {
       <section className="max-w-3xl mx-auto">
         <h1 className="text-4xl font-bold mb-4">Mayowa Adams</h1>
         <p className="text-lg mb-6">
-          I'm a frontend engineer focused on building responsive, accessible,
+          I am a frontend engineer focused on building responsive, accessible,
           and performance-driven web applications using React, TypeScript, and
           Next.js.
         </p>
@@ -87,7 +87,7 @@ export default function Home() {
             href="mailto:adamsmayowa06@gmail.com"
             className="text-blue-600 hover:underline"
           >
-            adamsmayowa06@gmail.com
+            Email: adamsmayowa06@gmail.com
           </a>
           <br />
           <a
