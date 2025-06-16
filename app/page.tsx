@@ -87,7 +87,7 @@ export default function Home() {
             href="mailto:adamsmayowa06@gmail.com"
             className="text-blue-600 hover:underline"
           >
-            Email: adamsmayowa06@gmail.com
+            Email
           </a>
           <br />
           <a
